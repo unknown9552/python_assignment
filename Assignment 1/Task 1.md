@@ -1,0 +1,27 @@
+- input() takes input from the user as a string.
+- The prompt "enter 1st number:" is shown on the screen.
+- float() converts the entered string into a floating-point number.
+- The converted value is stored in variable num1.
+- Takes the second number from the user.
+- Converts the input into a float.
+- Stores the value in variable num2.
+- Adds num1 and num2.
+- Stores the result in variable addition.
+- Subtracts num2 from num1.
+- Stores the result in variable subtraction.
+- Multiplies num1 with num2.
+- Stores the result in variable multiplication.
+- Divides num1 by num2.
+- / performs true division in Python.
+- Result is stored in variable division.
+- If num2 is 0, this line will raise a ZeroDivisionError.
+- print() displays the output on the console.
+- "Addition" is a label.
+- addition is the calculated value.
+- sep=":" replaces the default space with a colon (:).
+- Prints the subtraction result.
+- Uses colon as a separator.
+- Prints the multiplication result.
+- Output format remains consistent.
+- Prints the division result.
+- Final output line of the program.

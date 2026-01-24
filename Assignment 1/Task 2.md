@@ -1,0 +1,8 @@
+- input() reads the user’s first name as a string.
+- \n moves the cursor to a new line after displaying the prompt.
+- The entered value is stored in variable Name.
+- Takes the last name from the user.
+-Stores the input string in variable Last_name.
+- Uses an f-string for string formatting.
+- {Name} and {Last_name} are replaced with their actual values.
+- Prints a complete greeting message on the screen.
